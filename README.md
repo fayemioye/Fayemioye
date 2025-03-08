@@ -16,7 +16,7 @@ I can apply my skills and knowledge to contribute to the protection of computer 
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Programming Languages: [Python, SQL]          |  <a href="https://github.com/fayemioye/Perform-Filter-SQL-Query/tree/main">SQL Lab</a>|
-| Creating Algorithm [Python]                   | SOC Automation Lab|
+| Creating Algorithm [Python]                   | <a href="https://github.com/fayemioye/Creating-Algorithm-1/tree/main">Creating Algorithm</a>|
 
 
 ### Network
@@ -34,7 +34,7 @@ I can apply my skills and knowledge to contribute to the protection of computer 
 
 ## Projects
 - <a href="https://github.com/fayemioye/Perform-Filter-SQL-Query/tree/main">SQL Lab</a>
-- Creating Algorithm
+- <a href="https://github.com/fayemioye/Creating-Algorithm-1/tree/main">Creating Algorithm</a>
 
 
 

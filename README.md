@@ -15,7 +15,7 @@ I can apply my skills and knowledge to contribute to the protection of computer 
 |  Linux command-line                            | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Programming Languages: [Python, SQL           |  <a href="https://github.com/fayemioye/Perform-Filter-SQL-Query/tree/main)">SQL Lab</a>|
+| Programming Languages: [Python, SQL           |  <a href="https://github.com/fayemioye/Perform-Filter-SQL-Query/tree/main">SQL Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
@@ -33,7 +33,7 @@ I can apply my skills and knowledge to contribute to the protection of computer 
 <img src="https://img.shields.io/badge/Coursera-Cybersecurity-0062A1?&style=for-the-badge&logo=coursera&logoColor=white" />
 
 ## Projects
-- <a href="https://github.com/fayemioye/Perform-Filter-SQL-Query/tree/main)">SQL Lab</a>
+- <a href="https://github.com/fayemioye/Perform-Filter-SQL-Query/tree/main">SQL Lab</a>
 - SOC Automation Project
 
 

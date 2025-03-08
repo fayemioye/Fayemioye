@@ -1,5 +1,5 @@
 ## Hello, i'm  Fayemi 👋
-<a href="[https://linkedin.com/](https://www.linkedin.com/in/fayemi-oyesanya-9a2066a2/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/fayemi-oyesanya-9a2066a2/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Highly motivated and detail-driven Junior Cyber Security Analyst with a strong passion for protecting digital assets and infrastructure.
 

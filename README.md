@@ -12,7 +12,7 @@ I can apply my skills and knowledge to contribute to the protection of computer 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |  Operating Systems: Windows, Linux, macOS      | <a href="https://google.com">Detection Lab</a>|
-|  Linux command-line                            | <a href="https://google.com">Detection Lab</a>|
+|  Linux command-line                            | <a href="https://github.com/fayemioye/File-Permission-Linux/tree/main">File Permission-Linux</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Programming Languages: [Python, SQL]          |  <a href="https://github.com/fayemioye/Perform-Filter-SQL-Query/tree/main">SQL Lab</a>|
@@ -35,6 +35,7 @@ I can apply my skills and knowledge to contribute to the protection of computer 
 ## Projects
 - <a href="https://github.com/fayemioye/Perform-Filter-SQL-Query/tree/main">SQL Lab</a>
 - <a href="https://github.com/fayemioye/Creating-Algorithm-1/tree/main">Creating Algorithm</a>
+-  <a href="https://github.com/fayemioye/File-Permission-Linux/tree/main">File Permission-Linux</a>
 
 
 
